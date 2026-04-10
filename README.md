@@ -1,52 +1,50 @@
-🛡️ XYTEE-XC FACEBOOK CRACKING TOOL (FULLY UNLOCKED) 🛡️
-1. 📝 INTRODUCTION
-This is the fully cracked version of the XYTEE-XC Facebook Cracking Tool, originally developed by the XYTEEE-XC project.
+# 🛡️ XYTEE-XC FACEBOOK CRACKING TOOL (FULLY UNLOCKED) 🛡️
 
-[!IMPORTANT]
+---
 
-After being scammed for over $155 by the original developer, I have decided to release this crack to the public. You can now access all premium features for free, without any mandatory packages or license keys.
+### 1. 📝 INTRODUCTION
+This is the **fully cracked version** of the **XYTEE-XC Facebook Cracking Tool**, originally developed by the XYTEEE-XC project.  
 
-2. 🛠️ ABOUT THE CRACK
-The tool was originally protected by a Cython compiled binary (.so file), designed to prevent reverse engineering. I have successfully implemented the following:
+> [!IMPORTANT]  
+> After being scammed for over **$155** by the original developer, I have decided to release this crack to the public. You can now access all premium features for **free**, without any mandatory packages or license keys.
 
-✅ Server Bypass: Patched the entire server-side key verification system.
+---
 
-✅ Auth Removal: All registration, license checks, and payment authentications are removed.
+### 2. 🛠️ ABOUT THE CRACK
+The tool was originally protected by a **Cython compiled binary (.so file)**, designed to prevent reverse engineering. I have successfully implemented the following:
 
-✅ Instant Activation: When prompted to choose a package or enter a key, simply send that key to me for immediate full activation.
+* ✅ **Server Bypass:** Patched the entire server-side key verification system.
+* ✅ **Auth Removal:** All registration, license checks, and payment authentications are removed.
+* ✅ **Instant Activation:** When prompted to choose a package or enter a key, simply send that key to me for immediate full activation.
 
-3. 🚀 CRACK FEATURES
-🔓 Zero Restrictions: All key and license verifications removed.
+---
 
-🌐 Bypass Auth: Server authentication completely bypassed.
+### 3. 🚀 CRACK FEATURES
+* 🔓 **Zero Restrictions:** All key and license verifications removed.
+* 🌐 **Bypass Auth:** Server authentication completely bypassed.
+* ♾️ **Unlimited Access:** No expiration dates or trial limits.
+* 🛡️ **SSL Pinning Bypass:** Fixed all login issues for seamless connectivity.
+* 💎 **Premium Unlocked:** Every paid module is accessible.
+* 🚫 **No Forced Payments:** Auto-update and payment systems have been disabled.
 
-♾️ Unlimited Access: No expiration dates or trial limits.
+---
 
-🛡️ SSL Pinning Bypass: Fixed all login issues for seamless connectivity.
+### 4. ⚙️ MAIN TOOL CAPABILITIES
+* 🔥 **Brute Force:** Advanced Facebook cracking using custom password lists.
+* 📂 **File Cloning:** Specialized M1 > M2 > M3 methods.
+* 🎲 **Cloning Methods:** Random, Public, Number, and Email cloning.
+* 🛠️ **Dump Creator:** Built-in tool for creating data dumps.
+* 🤖 **Auto Creator:** Automated Facebook account creation.
+* 📜 **Legacy Cracking:** Specialized modules for Old IDs.
+* 🔍 **Targeting:** Crack via UID, Phone Number, Gmail, or Username.
 
-💎 Premium Unlocked: Every paid module is accessible.
+---
 
-🚫 No Forced Payments: Auto-update and payment systems have been disabled.
+### 5. 📥 INSTALLATION & USAGE
 
-4. ⚙️ MAIN TOOL CAPABILITIES
-🔥 Brute Force: Advanced Facebook cracking using custom password lists.
-
-📂 File Cloning: Specialized M1 > M2 > M3 methods.
-
-🎲 Cloning Methods: Random, Public, Number, and Email cloning.
-
-🛠️ Dump Creator: Built-in tool for creating data dumps.
-
-🤖 Auto Creator: Automated Facebook account creation.
-
-📜 Legacy Cracking: Specialized modules for Old IDs.
-
-🔍 Targeting: Crack via UID, Phone Number, Gmail, or Username.
-
-5. 📥 INSTALLATION & USAGE
-Bash
+```bash
 # Clone the repository
-git clone https://github.com/Phamtienmedia/CRACKER-XYTEE-XC
+git clone [https://github.com/Phamtienmedia/CRACKER-XYTEE-XC](https://github.com/Phamtienmedia/CRACKER-XYTEE-XC)
 
 # Enter the directory
 cd CRACKER-XYTEE-XC
@@ -56,6 +54,7 @@ pip install requests colorama
 
 # Launch the tool
 python Run.py
+
 📞 CONTACT & SUPPORT
 Telegram: @PTien205
 
