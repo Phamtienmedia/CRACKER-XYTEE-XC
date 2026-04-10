@@ -43,7 +43,7 @@ The tool was originally protected by a **Cython compiled binary (.so file)**. I 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Phamtienmedia/CRACKER-XYTEE-XC](https://github.com/Phamtienmedia/CRACKER-XYTEE-XC)
+git clone https://github.com/Phamtienmedia/CRACKER-XYTEE-XC
 
 # Enter the directory
 cd CRACKER-XYTEE-XC
