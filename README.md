@@ -49,10 +49,10 @@ git clone https://github.com/Phamtienmedia/CRACKER-XYTEE-XC
 cd CRACKER-XYTEE-XC
 
 # Install dependencies
-pip install requests colorama
+pip install -r requirements.txt
 
 # Launch the tool
-python Run.py
+python run.py
 ```
 📞 CONTACT & SUPPORT
 Telegram: @PTien205
