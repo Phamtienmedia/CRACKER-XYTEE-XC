@@ -11,7 +11,7 @@ This is the **fully cracked version** of the **XYTEE-XC Facebook Cracking Tool**
 ---
 
 ### 2. 🛠️ ABOUT THE CRACK
-The tool was originally protected by a **Cython compiled binary (.so file)**, designed to prevent reverse engineering. I have successfully implemented the following:
+The tool was originally protected by a **Cython compiled binary (.so file)**. I have successfully implemented the following:
 
 * ✅ **Server Bypass:** Patched the entire server-side key verification system.
 * ✅ **Auth Removal:** All registration, license checks, and payment authentications are removed.
@@ -54,12 +54,10 @@ pip install requests colorama
 
 # Launch the tool
 python Run.py
-
 📞 CONTACT & SUPPORT
 Telegram: @PTien205
 
 WhatsApp: 0877667153
-
 
 # ⚠️ XYTEEE-XC – Scam Warning
 
