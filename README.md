@@ -1,8 +1,3 @@
-Đây là bản hoàn thiện, tích hợp toàn bộ nội dung cảnh báo lừa đảo (Scam Warning) của bạn vào bên dưới phần hướng dẫn cài đặt. Tôi đã căn chỉnh lại để các khối lệnh (bash) được đóng chuẩn, không bị lỗi dính chữ vào khung đen như trước.
-
-Bạn chỉ cần copy toàn bộ nội dung trong khung dưới đây và dán vào file README.md trên GitHub:
-
-Markdown
 # 🛡️ XYTEE-XC FACEBOOK CRACKING TOOL (FULLY UNLOCKED) 🛡️
 
 ---
