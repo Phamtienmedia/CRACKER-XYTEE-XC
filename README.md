@@ -1,3 +1,8 @@
+Đây là bản hoàn thiện, tích hợp toàn bộ nội dung cảnh báo lừa đảo (Scam Warning) của bạn vào bên dưới phần hướng dẫn cài đặt. Tôi đã căn chỉnh lại để các khối lệnh (bash) được đóng chuẩn, không bị lỗi dính chữ vào khung đen như trước.
+
+Bạn chỉ cần copy toàn bộ nội dung trong khung dưới đây và dán vào file README.md trên GitHub:
+
+Markdown
 # 🛡️ XYTEE-XC FACEBOOK CRACKING TOOL (FULLY UNLOCKED) 🛡️
 
 ---
@@ -15,7 +20,7 @@ The tool was originally protected by a **Cython compiled binary (.so file)**. I 
 
 * ✅ **Server Bypass:** Patched the entire server-side key verification system.
 * ✅ **Auth Removal:** All registration, license checks, and payment authentications are removed.
-* ✅ **Instant Activation:** When prompted to choose a package or enter a key, simply send that key to me for immediate full activation.
+* ✅ **Instant Activation:** When prompted to enter a key, just send any key for immediate activation.
 
 ---
 
@@ -35,7 +40,6 @@ The tool was originally protected by a **Cython compiled binary (.so file)**. I 
 * 🎲 **Cloning Methods:** Random, Public, Number, and Email cloning.
 * 🛠️ **Dump Creator:** Built-in tool for creating data dumps.
 * 🤖 **Auto Creator:** Automated Facebook account creation.
-* 📜 **Legacy Cracking:** Specialized modules for Old IDs.
 * 🔍 **Targeting:** Crack via UID, Phone Number, Gmail, or Username.
 
 ---
@@ -59,89 +63,79 @@ Telegram: @PTien205
 
 WhatsApp: 0877667153
 
-# ⚠️ XYTEEE-XC – Scam Warning
+⚠️ XYTEEE-XC – SCAM WARNING
+Author: Phạm Tiến
 
-**Author:** Phạm Tiến
-**Loss:** $155
+Loss: $155
 
----
-
-# 🚨 Summary
-
-This project (**XYTEEE-XC**) is a **scam system**.
-
+🚨 Summary
+This project (XYTEEE-XC) is a scam system.
 The seller claims:
 
-* Premium tools
-* Open source access
-* Full feature unlock
-* Proxy support
+Premium tools
 
-👉 **Reality: Nothing works.**
+Open source access
 
----
+Full feature unlock
 
-# ❗ What Actually Happens
+Proxy support
 
-* Trial version → broken (missing modules)
-* Paid versions → no real upgrade
-* Open source → incomplete / unusable
-* Proxy → irrelevant / fake
-* Final product → never delivered
+👉 Reality: Nothing works.
+
+❗ What Actually Happens
+Trial version → broken (missing modules)
+
+Paid versions → no real upgrade
+
+Open source → incomplete / unusable
+
+Proxy → irrelevant / fake
+
+Final product → never delivered
 
 👉 Every step is designed to push you to pay more.
 
----
+🧠 Scam Pattern
+Start with cheap trial ($5)
 
-# 🧠 Scam Pattern
+Tool fails immediately
 
-1. Start with cheap trial ($5)
-2. Tool fails immediately
-3. Seller tells you to upgrade
-4. Each payment unlocks nothing
-5. Introduces "proxy" as excuse
-6. Keeps delaying delivery
-7. Asks for final payment
+Seller tells you to upgrade
 
-👉 Endless payment loop with no working product
+Each payment unlocks nothing
 
----
+Introduces "proxy" as excuse
 
-# ⚠️ Key Red Flags
+Keeps delaying delivery
 
-* No demo
-* No clear explanation
-* Only says: "Buy now"
-* Constant upselling
-* Blames proxy / environment
-* Never provides proof
+Asks for final payment
 
----
+👉 Endless payment loop with no working product.
 
-# 📌 Conclusion
+⚠️ Key Red Flags
+No demo
 
-👉 **There is NO real tool behind this project.**
+No clear explanation (Only says: "Buy now")
 
+Constant upselling
+
+Blames proxy / environment
+
+Never provides proof
+
+📌 Conclusion
+👉 There is NO real tool behind this project.
 This is a structured scam to extract money step by step.
 
----
+📂 Full Evidence
+If you want full details, chat logs, and technical analysis, join the Telegram group (all evidence exported as files):
+👉 Telegram: https://t.me/Xyteee_scamer
 
-# 📂 Full Evidence
+⚠️ FINAL WARNING
+Do NOT buy
 
-If you want full details, chat logs, and technical analysis:
+Do NOT send more money
 
-👉 Join my Telegram group (all evidence exported as files)
-
-**Telegram:** [https://t.me/Xyteee_scamer](https://t.me/Xyteee_scamer)
-
----
-
-# ⚠️ Warning
-
-* Do NOT buy
-* Do NOT send more money
-* Do NOT trust "just one more payment"
-
----
+Do NOT trust "just one more payment"
 
 Stay safe.
