@@ -1,6 +1,4 @@
-import os
-import sys
-import time
+import os, sys, time, glob
 
 try:
     from colorama import Fore, Style, init
@@ -12,12 +10,7 @@ init(autoreset=True, strip=False)
 
 def banner():
     os.system('clear')
-    Y = Fore.YELLOW + Style.BRIGHT
-    R = Fore.RED + Style.BRIGHT
-    G = Fore.GREEN + Style.BRIGHT
-    W = Fore.WHITE + Style.BRIGHT
-    M = Fore.MAGENTA + Style.BRIGHT
-    C = Fore.CYAN + Style.BRIGHT
+    Y, R, G, W, M, C = Fore.YELLOW + Style.BRIGHT, Fore.RED + Style.BRIGHT, Fore.GREEN + Style.BRIGHT, Fore.WHITE + Style.BRIGHT, Fore.MAGENTA + Style.BRIGHT, Fore.CYAN + Style.BRIGHT
 
     print(f"""
 {Y}    ██╗  ██╗██╗   ██╗████████╗███████╗███████╗
@@ -27,40 +20,28 @@ def banner():
 {Y}    ██╔╝ ██╗   ██║      ██║   ███████╗███████║
 {Y}    ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝
     """)
-
     print(f" {M} [ ANDROID BYPASS SYSTEM - CRACKED BY PT MEDIA ]")
     print(f"{W} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-
-    info = [
-        ("PROJECT   ", "XYTEEE-XC", Y),
-        ("CRACKER   ", "PHAM TIEN MEDIA", R),
-        ("TELEGRAM  ", "@PTien205", C),
-        ("WHATSAPP  ", "+84877667153", C),
-        ("STATUS    ", "LOCAL BYPASS ACTIVE", G)
-    ]
-
-    for label, value, color in info:
-        print(f" {R}[{W}●{R}] {W}{label.ljust(12)}: {color}{value}")
-        time.sleep(0.03)
-
+    print(f" {R}[{W}●{R}] {W}PROJECT     : {Y}XYTEEE-XC")
+    print(f" {R}[{W}●{R}] {W}CRACKER     : {R}PHAM TIEN MEDIA")
+    print(f" {R}[{W}●{R}] {W}STATUS      : {G}BYPASS ACTIVE")
     print(f"{W} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"\n {G}[+] {W}This cracked tool is 100% FREE.")
-    print(f" {G}[+] {W}Admin's scam license system has been bypassed.")
-    print(f"\n {W}>>> {Y}Press {R}ENTER {Y}to start the tool {W}<<<")
+    print(f"\n {G}[+] {W}Admin's scam system has been bypassed.")
+    print(f" {G}[+] {W}Free tool for everyone. Enjoy!")
+    print(f"\n {W}>>> {Y}Press {R}ENTER {Y}to start {W}<<<")
     input()
 
 if __name__ == "__main__":
     banner()
-    
     sys.path.append(os.getcwd())
-    
     try:
-        print(f"{Fore.YELLOW}[*] Initializing local module: xcmain...")
+        # Tự động tìm file xcmain.cpython-312.so và lấy tên 'xcmain' để load
+        # Lệnh này sẽ tìm bất cứ file nào bắt đầu bằng xcmain và kết thúc bằng .so
         __import__("xcmain").email_verification_system()
-        
-    except ImportError:
-        print(f"\n{Fore.RED}[!] ERROR: 'xcmain.so' NOT FOUND!")
-        print(f"{Fore.WHITE}[*] Make sure 'xcmain.so' is in the same folder as this 'run.py'.")
     except Exception as e:
-        print(f"\n{Fore.RED}[!] SYSTEM ERROR: {str(e)}")
-        print(f"{Fore.YELLOW}[*] Hint: Check your Python version (Python 3.12 required).")
+        # Nếu load trực tiếp thất bại, dùng glob để quét tên chính xác
+        try:
+            target = glob.glob("xcmain*.so")[0].split('.')[0]
+            __import__(target).email_verification_system()
+        except:
+            exit(f"\n{Fore.RED}[!] Error: {str(e)}")
