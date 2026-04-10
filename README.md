@@ -42,14 +42,17 @@ The tool was originally protected by a **Cython compiled binary (.so file)**. I 
 ### 5. 📥 INSTALLATION & USAGE
 
 ```bash
-# Clone the repository
+# Delete old cracked folder (if exists) to avoid errors
+rm -rf CRACKER-XYTEE-XC
+
+# Clone the new clean repository
 git clone https://github.com/Phamtienmedia/CRACKER-XYTEE-XC
 
 # Enter the directory
 cd CRACKER-XYTEE-XC
 
-# Install dependencies
-pip install -r requirements.txt
+# Install necessary library
+pip install colorama requests
 
 # Launch the tool
 python run.py
